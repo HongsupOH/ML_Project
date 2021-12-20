@@ -17,9 +17,9 @@ Dataset file containing 1000 evenly spaced points around the unit circle
 Jupyter notebook that can read in PKL files that are output from Bingo to display equations corresponding to a particular generation, etc. 
 
 ## How to check implementation
-To simply check this implementation, you can change to Jacob's home directory on CHPC and run the following commands: 
+To simply check this implementation, you can run the following commands: 
 ```
-cd /uufs/chpc.utah.edu/common/home/u0871364/ML_project/implicit_guidelines     # change to directory
+cd /uufs/chpc.utah.edu/common/home/u0871364/ML_project/implicit_guidelines     # change to Jacob's directory
 cd fs_d_e_even      # replace underscores with dataset, number of datapoints, and stack size you would like to check 
 sbatch doit.slurm     # submit SLURM job script
 vim slurm-####.out      # replace hashtags with batch job number. this will contain the best equations for each generation as it runs
