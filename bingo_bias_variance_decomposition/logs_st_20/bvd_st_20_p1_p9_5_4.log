@@ -1,0 +1,39 @@
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 0 	 Elapsed time: 0:00:03.859025 	 Best training fitness: 2.476381e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:0, 3.859025e+00, 11711, 2.476381e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:31.905466	 age 20	 fitness 1.792e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 10 	 Elapsed time: 0:00:35.958007 	 Best training fitness: 1.792083e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:10, 3.595801e+01, 97408, 1.792083e-02, 1.792083e-02, 2.435046e-02, 2.437257e-02, 2.449662e-02, 2.451683e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:32.467010	 age 30	 fitness 1.792e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 20 	 Elapsed time: 0:01:08.643273 	 Best training fitness: 1.792083e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:20, 6.864327e+01, 159441, 1.792083e-02, 1.792083e-02, 2.434711e-02, 2.440771e-02, 2.445893e-02, 2.451683e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:28.235585	 age 40	 fitness 1.792e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 30 	 Elapsed time: 0:01:37.145042 	 Best training fitness: 1.792083e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:30, 9.714504e+01, 214881, 1.792083e-02, 1.792083e-02, 2.429552e-02, 2.433691e-02, 2.445893e-02, 2.451610e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:46.735578	 age 50	 fitness 1.658e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 40 	 Elapsed time: 0:02:24.107589 	 Best training fitness: 1.658176e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:40, 1.441076e+02, 288852, 1.658176e-02, 1.658176e-02, 1.786358e-02, 2.420411e-02, 2.443138e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:30.394365	 age 60	 fitness 1.642e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 50 	 Elapsed time: 0:02:54.726066 	 Best training fitness: 1.642383e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:50, 1.747261e+02, 345773, 1.642383e-02, 1.642383e-02, 1.786358e-02, 2.420411e-02, 2.433871e-02, 2.443138e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:33.476464	 age 70	 fitness 5.364e-03
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 60 	 Elapsed time: 0:03:28.433243 	 Best training fitness: 5.364153e-03 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:60, 2.084332e+02, 406071, 5.364153e-03, 5.364153e-03, 1.786358e-02, 2.420411e-02, 2.433871e-02, 2.443138e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:54.676173	 age 80	 fitness 5.745e-05
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 70 	 Elapsed time: 0:04:23.345620 	 Best training fitness: 5.745316e-05 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:70, 2.633456e+02, 482284, 5.745316e-05, 5.745316e-05, 1.861875e-03, 1.878769e-03, 1.781094e-02, 2.420411e-02, 2.433871e-02, 2.443138e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:38.461452	 age 90	 fitness 2.864e-05
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 80 	 Elapsed time: 0:05:02.045075 	 Best training fitness: 2.864296e-05 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:80, 3.020451e+02, 550441, 2.864296e-05, 2.864296e-05, 2.952096e-04, 1.878769e-03, 1.781094e-02, 2.420411e-02, 2.433871e-02, 2.443138e-02, 2.475862e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:18.397688	 age 100	 fitness 1.422e-17
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 90 	 Elapsed time: 0:05:20.676883 	 Best training fitness: 1.421909e-17 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:90, 3.206769e+02, 601353, 1.421909e-17, 1.421909e-17, 2.414138e-02, 2.433871e-02, 2.443138e-02, 2.475862e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Evolution successfully converged.
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:  Absolte convergence occurred with best fitness < 1e-10
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Hall of Fame:
+1.421908502404769e-17	7	sin(log((X_0)(X_0) + (X_1)(X_1)))
+0.02414138219788623	5	log(sin(-0.001251 + log(-0.001251)))
+0.024338709482510632	4	sin((log(-0.034299))(log(-0.034299)))
+0.024431382426981164	2	sin(-1.256498)
+0.024758615344692928	1	-0.871005

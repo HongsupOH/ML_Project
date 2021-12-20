@@ -1,0 +1,21 @@
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 0 	 Elapsed time: 0:00:00.735142 	 Best training fitness: 3.111924e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:0, 7.351420e-01, 28792, 3.111924e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:07.095714	 age 20	 fitness 2.778e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 10 	 Elapsed time: 0:00:08.121785 	 Best training fitness: 2.778413e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:10, 8.121785e+00, 318090, 2.778413e-01, 2.778413e-01, 2.800552e-01, 2.873543e-01, 2.960300e-01, 2.970173e-01, 3.061743e-01, 3.111924e-01, 3.441922e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:08.333821	 age 40	 fitness 2.728e-15
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 20 	 Elapsed time: 0:00:16.795810 	 Best training fitness: 2.727679e-15 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:20, 1.679581e+01, 565414, 2.727679e-15, 2.727679e-15, 6.450439e-02, 7.009518e-02, 2.936770e-01, 2.970166e-01, 2.989944e-01, 3.111924e-01, 3.441922e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Evolution successfully converged.
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:  Absolte convergence occurred with best fitness < 1e-10
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Hall of Fame:
+2.7276791936259316e-15	12	sin(log(((sin(X_0))(0.000000 + 0.000000) + X_1)((sin(X_0))(0.000000 + 0.000000) + X_1) + (X_0)(X_0)))
+0.0645043871953039	10	sin(log((log(sin(X_0)) + X_1)(log(sin(X_0)) + X_1) + (X_0)(X_0)))
+0.07009518042790289	9	sin(log((sin(X_0) + X_1)(sin(X_0) + X_1) + (X_0)(X_0)))
+0.2936770269982937	8	sin(((log(X_1))(log(X_1)) + 1.553475)(-0.209146))
+0.2970165876599379	6	(log(X_0) + 0.942326)(-0.306787)
+0.2989944439802115	5	(log(X_1 + X_1))(-0.332305)
+0.3111924468682281	4	(log(X_0))(-0.434294)
+0.34419218946292124	1	-0.904229

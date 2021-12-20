@@ -1,0 +1,18 @@
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 0 	 Elapsed time: 0:00:02.569980 	 Best training fitness: 1.205225e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:0, 2.569980e+00, 12468, 1.205225e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:25.720885	 age 20	 fitness 1.204e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 10 	 Elapsed time: 0:00:28.456902 	 Best training fitness: 1.203904e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:10, 2.845690e+01, 119879, 1.203904e-01, 1.203904e-01, 1.204009e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:15.152110	 age 40	 fitness 4.672e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 20 	 Elapsed time: 0:00:43.785707 	 Best training fitness: 4.671773e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:20, 4.378571e+01, 184209, 4.671773e-02, 4.671773e-02, 1.203577e-01, 1.203912e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:20.430008	 age 50	 fitness 7.110e-17
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 30 	 Elapsed time: 0:01:04.429940 	 Best training fitness: 7.109543e-17 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:30, 6.442994e+01, 258672, 7.109543e-17, 7.109543e-17, 1.203912e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Evolution successfully converged.
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:  Absolte convergence occurred with best fitness < 1e-10
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Hall of Fame:
+7.109542512023842e-17	7	sin(log((X_0)(X_0) + (X_1)(X_1)))
+0.120391216718096	1	-0.935920

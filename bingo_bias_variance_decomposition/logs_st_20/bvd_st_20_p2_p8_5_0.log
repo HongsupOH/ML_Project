@@ -1,0 +1,426 @@
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_0.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 0 	 Elapsed time: 0:00:02.846559 	 Best training fitness: 4.853899e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:0, 2.846559e+00, 14503, 4.853899e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:35.320223	 age 20	 fitness 4.828e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_10.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 10 	 Elapsed time: 0:00:38.328195 	 Best training fitness: 4.827951e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:10, 3.832820e+01, 138346, 4.827951e-02, 4.827951e-02, 4.851285e-02, 4.856049e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:23.522367	 age 30	 fitness 4.824e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_20.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 20 	 Elapsed time: 0:01:02.062989 	 Best training fitness: 4.823642e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:20, 6.206299e+01, 205021, 4.823642e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:21.021901	 age 40	 fitness 4.822e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_30.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 30 	 Elapsed time: 0:01:23.271335 	 Best training fitness: 4.822429e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:30, 8.327133e+01, 278878, 4.822429e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:19.674438	 age 50	 fitness 4.827e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_40.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 40 	 Elapsed time: 0:01:43.102649 	 Best training fitness: 4.827160e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:40, 1.031026e+02, 355512, 4.827160e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:16.859579	 age 60	 fitness 4.831e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_50.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 50 	 Elapsed time: 0:02:00.154550 	 Best training fitness: 4.830889e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:50, 1.201546e+02, 444003, 4.830889e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:18.555217	 age 70	 fitness 4.827e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_60.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 60 	 Elapsed time: 0:02:18.890623 	 Best training fitness: 4.826758e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:60, 1.388906e+02, 522786, 4.826758e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:22.473607	 age 80	 fitness 4.827e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_70.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 70 	 Elapsed time: 0:02:41.554075 	 Best training fitness: 4.826758e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:70, 1.615541e+02, 605812, 4.826758e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:29.006448	 age 90	 fitness 4.821e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_80.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 80 	 Elapsed time: 0:03:10.782481 	 Best training fitness: 4.820584e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:80, 1.907825e+02, 677199, 4.820584e-02, 4.820584e-02, 4.821679e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:38.454066	 age 100	 fitness 4.792e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_90.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 90 	 Elapsed time: 0:03:49.529158 	 Best training fitness: 4.792027e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:90, 2.295292e+02, 777948, 4.792027e-02, 4.792027e-02, 4.796702e-02, 4.821679e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:16.259517	 age 110	 fitness 4.811e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_100.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 100 	 Elapsed time: 0:04:05.985728 	 Best training fitness: 4.811443e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:100, 2.459857e+02, 831362, 4.811443e-02, 4.792027e-02, 4.796702e-02, 4.811443e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:34.045172	 age 120	 fitness 3.851e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_110.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 110 	 Elapsed time: 0:04:40.352454 	 Best training fitness: 3.851430e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:110, 2.803525e+02, 930970, 3.851430e-02, 3.851430e-02, 4.785568e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:39.130531	 age 130	 fitness 3.809e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_120.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 120 	 Elapsed time: 0:05:19.808188 	 Best training fitness: 3.808804e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:120, 3.198082e+02, 1027381, 3.808804e-02, 3.808804e-02, 4.785568e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:21.228287	 age 140	 fitness 3.792e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_130.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 130 	 Elapsed time: 0:05:41.276336 	 Best training fitness: 3.791760e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:130, 3.412763e+02, 1091484, 3.791760e-02, 3.791760e-02, 4.785568e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:15.841656	 age 150	 fitness 3.801e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_140.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 140 	 Elapsed time: 0:05:57.434930 	 Best training fitness: 3.801431e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:140, 3.574349e+02, 1151818, 3.801431e-02, 3.791760e-02, 3.951848e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:21.411891	 age 160	 fitness 3.649e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_150.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 150 	 Elapsed time: 0:06:19.043497 	 Best training fitness: 3.649480e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:150, 3.790435e+02, 1231259, 3.649480e-02, 3.649480e-02, 3.789467e-02, 3.951848e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:16.644150	 age 170	 fitness 3.368e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_160.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 160 	 Elapsed time: 0:06:35.884160 	 Best training fitness: 3.367926e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:160, 3.958842e+02, 1292138, 3.367926e-02, 3.367926e-02, 3.786438e-02, 3.951848e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:17.774392	 age 180	 fitness 2.905e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_170.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 170 	 Elapsed time: 0:06:53.891341 	 Best training fitness: 2.905114e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:170, 4.138913e+02, 1354406, 2.905114e-02, 2.905114e-02, 3.017785e-02, 3.786438e-02, 3.951848e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:24.274020	 age 190	 fitness 2.506e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_180.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 180 	 Elapsed time: 0:07:18.351537 	 Best training fitness: 2.505542e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:180, 4.383515e+02, 1444771, 2.505542e-02, 2.505542e-02, 2.666522e-02, 3.786438e-02, 3.951848e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:25.448189	 age 200	 fitness 2.413e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_190.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 190 	 Elapsed time: 0:07:43.987433 	 Best training fitness: 2.412619e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:190, 4.639874e+02, 1523384, 2.412619e-02, 2.412619e-02, 2.493597e-02, 2.513187e-02, 2.636304e-02, 3.610452e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:09.379741	 age 210	 fitness 2.411e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_200.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 200 	 Elapsed time: 0:07:53.556654 	 Best training fitness: 2.411145e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:200, 4.735567e+02, 1568134, 2.411145e-02, 2.411145e-02, 2.493597e-02, 2.507229e-02, 2.636304e-02, 3.557488e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:17.637755	 age 220	 fitness 2.403e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_210.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 210 	 Elapsed time: 0:08:11.439995 	 Best training fitness: 2.402952e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:210, 4.914400e+02, 1639585, 2.402952e-02, 2.402952e-02, 2.415590e-02, 2.419273e-02, 2.510260e-02, 3.289763e-02, 3.556089e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:27.187040	 age 230	 fitness 2.404e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_220.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 220 	 Elapsed time: 0:08:38.943937 	 Best training fitness: 2.404442e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:220, 5.189439e+02, 1748646, 2.404442e-02, 2.402952e-02, 2.404442e-02, 2.419273e-02, 2.505124e-02, 2.591318e-02, 3.556089e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:39.361985	 age 240	 fitness 2.379e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_230.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 230 	 Elapsed time: 0:09:18.678262 	 Best training fitness: 2.378907e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:230, 5.586783e+02, 1874164, 2.378907e-02, 2.378907e-02, 2.505124e-02, 2.591318e-02, 3.556089e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:41.712106	 age 250	 fitness 2.366e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_240.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 240 	 Elapsed time: 0:10:00.580138 	 Best training fitness: 2.366334e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:240, 6.005801e+02, 2020962, 2.366334e-02, 2.366334e-02, 2.505124e-02, 2.579916e-02, 3.550737e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:20.098380	 age 260	 fitness 2.357e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_250.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 250 	 Elapsed time: 0:10:20.875881 	 Best training fitness: 2.356765e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:250, 6.208759e+02, 2080303, 2.356765e-02, 2.356765e-02, 2.505124e-02, 2.579916e-02, 3.550737e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:30.054121	 age 270	 fitness 2.355e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_260.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 260 	 Elapsed time: 0:10:51.133485 	 Best training fitness: 2.355216e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:260, 6.511335e+02, 2182053, 2.355216e-02, 2.355216e-02, 2.504202e-02, 2.579916e-02, 3.550737e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:42.139153	 age 280	 fitness 2.353e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_270.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 270 	 Elapsed time: 0:11:33.467195 	 Best training fitness: 2.353179e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:270, 6.934672e+02, 2279786, 2.353179e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.550737e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:38.575084	 age 290	 fitness 2.305e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_280.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 280 	 Elapsed time: 0:12:12.238103 	 Best training fitness: 2.305311e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:280, 7.322381e+02, 2366558, 2.305311e-02, 2.305311e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:11.896364	 age 300	 fitness 2.293e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_290.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 290 	 Elapsed time: 0:12:24.326513 	 Best training fitness: 2.293334e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:290, 7.443265e+02, 2424494, 2.293334e-02, 2.293334e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:34.843071	 age 310	 fitness 2.294e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_300.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 300 	 Elapsed time: 0:12:59.393441 	 Best training fitness: 2.294168e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:300, 7.793934e+02, 2510437, 2.294168e-02, 2.293334e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:24.741242	 age 320	 fitness 2.294e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_310.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 310 	 Elapsed time: 0:13:24.322206 	 Best training fitness: 2.293631e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:310, 8.043222e+02, 2601967, 2.293631e-02, 2.293334e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:28.086736	 age 330	 fitness 2.294e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_320.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 320 	 Elapsed time: 0:13:52.597541 	 Best training fitness: 2.293631e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:320, 8.325975e+02, 2706407, 2.293631e-02, 2.293334e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:28.476879	 age 340	 fitness 2.294e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_330.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 330 	 Elapsed time: 0:14:21.275317 	 Best training fitness: 2.293631e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:330, 8.612753e+02, 2796144, 2.293631e-02, 2.293334e-02, 2.346547e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:32.771010	 age 350	 fitness 2.295e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_340.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 340 	 Elapsed time: 0:14:54.385116 	 Best training fitness: 2.294548e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:340, 8.943851e+02, 2922993, 2.294548e-02, 2.293334e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:48.243100	 age 360	 fitness 2.293e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_350.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 350 	 Elapsed time: 0:15:42.822046 	 Best training fitness: 2.292519e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:350, 9.428220e+02, 3082416, 2.292519e-02, 2.292519e-02, 2.293334e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.545002e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:29.251683	 age 370	 fitness 2.293e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_360.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 360 	 Elapsed time: 0:16:12.266905 	 Best training fitness: 2.293129e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:360, 9.722669e+02, 3194415, 2.293129e-02, 2.292519e-02, 2.293334e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:39.239148	 age 380	 fitness 2.287e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_370.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 370 	 Elapsed time: 0:16:51.744658 	 Best training fitness: 2.286800e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:370, 1.011745e+03, 3303348, 2.286800e-02, 2.286800e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:51.291408	 age 390	 fitness 2.292e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_380.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 380 	 Elapsed time: 0:17:43.384649 	 Best training fitness: 2.292211e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:380, 1.063385e+03, 3427803, 2.292211e-02, 2.286800e-02, 2.292211e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:59.689448	 age 400	 fitness 2.007e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_390.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 390 	 Elapsed time: 0:18:43.305653 	 Best training fitness: 2.007378e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:390, 1.123306e+03, 3579087, 2.007378e-02, 2.007378e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:50.781111	 age 410	 fitness 2.008e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_400.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 400 	 Elapsed time: 0:19:34.316040 	 Best training fitness: 2.007545e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:400, 1.174316e+03, 3685321, 2.007545e-02, 2.007378e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:48.744514	 age 420	 fitness 2.000e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_410.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 410 	 Elapsed time: 0:20:23.301129 	 Best training fitness: 1.999666e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:410, 1.223301e+03, 3826830, 1.999666e-02, 1.999666e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:34.042406	 age 430	 fitness 1.997e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_420.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 420 	 Elapsed time: 0:20:57.568230 	 Best training fitness: 1.997495e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:420, 1.257568e+03, 3950985, 1.997495e-02, 1.997495e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:52.575174	 age 440	 fitness 1.996e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_430.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 430 	 Elapsed time: 0:21:50.414278 	 Best training fitness: 1.995717e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:430, 1.310414e+03, 4092161, 1.995717e-02, 1.995717e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:31.439261	 age 450	 fitness 1.886e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_440.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 440 	 Elapsed time: 0:22:22.094086 	 Best training fitness: 1.886437e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:440, 1.342094e+03, 4183123, 1.886437e-02, 1.886437e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:54.709746	 age 460	 fitness 1.897e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_450.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 450 	 Elapsed time: 0:23:17.026924 	 Best training fitness: 1.897472e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:450, 1.397027e+03, 4292838, 1.897472e-02, 1.886437e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:01:00.636569	 age 470	 fitness 1.884e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_460.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 460 	 Elapsed time: 0:24:17.894358 	 Best training fitness: 1.884267e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:460, 1.457894e+03, 4436602, 1.884267e-02, 1.884267e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:56.457225	 age 480	 fitness 1.885e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_470.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 470 	 Elapsed time: 0:25:14.581091 	 Best training fitness: 1.884773e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:470, 1.514581e+03, 4559745, 1.884773e-02, 1.884267e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:56.648095	 age 490	 fitness 1.883e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_480.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 480 	 Elapsed time: 0:26:11.457693 	 Best training fitness: 1.883429e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:480, 1.571458e+03, 4666560, 1.883429e-02, 1.883429e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:56.899972	 age 500	 fitness 1.883e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_490.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 490 	 Elapsed time: 0:27:08.584888 	 Best training fitness: 1.882992e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:490, 1.628585e+03, 4788373, 1.882992e-02, 1.882992e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:51.858147	 age 510	 fitness 1.882e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_500.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 500 	 Elapsed time: 0:28:00.671557 	 Best training fitness: 1.881557e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:500, 1.680672e+03, 4892719, 1.881557e-02, 1.881557e-02, 2.291582e-02, 2.292357e-02, 2.327125e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:53.074863	 age 520	 fitness 1.882e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_510.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 510 	 Elapsed time: 0:28:53.974859 	 Best training fitness: 1.881557e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:510, 1.733975e+03, 4997546, 1.881557e-02, 1.881557e-02, 2.291582e-02, 2.292357e-02, 2.318842e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:52.709098	 age 530	 fitness 1.814e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_520.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 520 	 Elapsed time: 0:29:46.908483 	 Best training fitness: 1.813931e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:520, 1.786908e+03, 5110509, 1.813931e-02, 1.813931e-02, 1.880329e-02, 2.291582e-02, 2.292357e-02, 2.318842e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.822429e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:47.941927	 age 540	 fitness 1.800e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_530.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 530 	 Elapsed time: 0:30:35.047241 	 Best training fitness: 1.800143e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:530, 1.835047e+03, 5263391, 1.800143e-02, 1.800143e-02, 1.880329e-02, 2.228298e-02, 2.292357e-02, 2.308753e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:44.852371	 age 550	 fitness 1.800e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_540.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 540 	 Elapsed time: 0:31:20.099761 	 Best training fitness: 1.800143e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:540, 1.880100e+03, 5398328, 1.800143e-02, 1.800143e-02, 1.876432e-02, 2.228298e-02, 2.292357e-02, 2.303075e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:42.672518	 age 560	 fitness 1.798e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_550.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 550 	 Elapsed time: 0:32:02.971983 	 Best training fitness: 1.798270e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:550, 1.922972e+03, 5514958, 1.798270e-02, 1.798270e-02, 1.876432e-02, 2.225543e-02, 2.292357e-02, 2.300471e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:47.991678	 age 570	 fitness 1.790e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_560.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 560 	 Elapsed time: 0:32:51.212898 	 Best training fitness: 1.789910e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:560, 1.971213e+03, 5671040, 1.789910e-02, 1.789910e-02, 1.876432e-02, 2.225543e-02, 2.292357e-02, 2.300187e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:28.729005	 age 580	 fitness 1.790e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_570.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 570 	 Elapsed time: 0:33:20.140868 	 Best training fitness: 1.789813e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:570, 2.000141e+03, 5772283, 1.789813e-02, 1.789813e-02, 1.876432e-02, 2.218712e-02, 2.292357e-02, 2.300187e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:45.927643	 age 590	 fitness 1.790e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_580.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 580 	 Elapsed time: 0:34:06.295660 	 Best training fitness: 1.790058e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:580, 2.046296e+03, 5906882, 1.790058e-02, 1.789813e-02, 1.876432e-02, 2.218712e-02, 2.292357e-02, 2.300187e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:53.591153	 age 600	 fitness 1.790e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_590.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 590 	 Elapsed time: 0:35:00.227470 	 Best training fitness: 1.789734e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:590, 2.100227e+03, 6072138, 1.789734e-02, 1.789734e-02, 1.876432e-02, 2.218712e-02, 2.292357e-02, 2.300187e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:46.684241	 age 610	 fitness 1.791e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_600.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 600 	 Elapsed time: 0:35:47.115069 	 Best training fitness: 1.790608e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:600, 2.147115e+03, 6206181, 1.790608e-02, 1.789734e-02, 1.876432e-02, 2.201779e-02, 2.292357e-02, 2.298393e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:32.931528	 age 620	 fitness 1.790e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_610.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 610 	 Elapsed time: 0:36:20.248590 	 Best training fitness: 1.790313e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:610, 2.180249e+03, 6309954, 1.790313e-02, 1.789734e-02, 1.876432e-02, 2.201779e-02, 2.292357e-02, 2.298393e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:18.618574	 age 630	 fitness 1.794e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_620.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 620 	 Elapsed time: 0:36:39.101573 	 Best training fitness: 1.794349e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:620, 2.199102e+03, 6393810, 1.794349e-02, 1.789734e-02, 1.876432e-02, 2.201779e-02, 2.292357e-02, 2.298393e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:29.223598	 age 640	 fitness 1.788e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_630.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 630 	 Elapsed time: 0:37:08.523824 	 Best training fitness: 1.788288e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:630, 2.228524e+03, 6490824, 1.788288e-02, 1.788288e-02, 1.876432e-02, 2.201779e-02, 2.292357e-02, 2.298393e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:41.752504	 age 650	 fitness 1.793e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_640.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 640 	 Elapsed time: 0:37:50.476774 	 Best training fitness: 1.793375e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:640, 2.270477e+03, 6619799, 1.793375e-02, 1.788288e-02, 1.876432e-02, 2.201779e-02, 2.292357e-02, 2.298393e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:40.785516	 age 660	 fitness 1.792e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_650.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 650 	 Elapsed time: 0:38:31.471207 	 Best training fitness: 1.791929e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:650, 2.311471e+03, 6731613, 1.791929e-02, 1.788288e-02, 1.876432e-02, 2.201779e-02, 2.292357e-02, 2.298393e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:39.007763	 age 670	 fitness 1.792e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_660.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 660 	 Elapsed time: 0:39:10.677870 	 Best training fitness: 1.791787e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:660, 2.350678e+03, 6853075, 1.791787e-02, 1.788288e-02, 1.876432e-02, 2.035933e-02, 2.292357e-02, 2.298292e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:27.628232	 age 680	 fitness 1.792e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_670.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 670 	 Elapsed time: 0:39:38.504974 	 Best training fitness: 1.792217e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:670, 2.378505e+03, 6964667, 1.792217e-02, 1.788288e-02, 1.876432e-02, 2.017086e-02, 2.292357e-02, 2.298292e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:01:00.364485	 age 690	 fitness 1.788e-02
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_680.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 680 	 Elapsed time: 0:40:39.070981 	 Best training fitness: 1.787705e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:680, 2.439071e+03, 7123429, 1.787705e-02, 1.787705e-02, 1.876432e-02, 2.017086e-02, 2.292357e-02, 2.298292e-02, 2.353179e-02, 2.504202e-02, 2.579916e-02, 3.542073e-02, 4.813083e-02, 4.823642e-02
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Performing migration between Islands
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:42.727957	 age 700	 fitness 2.844e-17
+Level 25:bingo.evolutionary_optimizers.parallel_archipelago:Saving checkpoint: src/bingo_bias_vias_decomposition/checkpoints_st_20/implicit_st_20_p2_p8_5_690.pkl
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Saved successfully
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 690 	 Elapsed time: 0:41:22.035841 	 Best training fitness: 2.843817e-17 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:690, 2.482036e+03, 7268520, 2.843817e-17, 2.843817e-17, 4.813083e-02, 4.823642e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Evolution successfully converged.
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:  Absolte convergence occurred with best fitness < 1e-10
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Hall of Fame:
+2.843817004809537e-17	7	sin(log((X_1)(X_1) + (X_0)(X_0)))
+0.04813083109470106	4	log(sin(log(0.064696)))
+0.04823641758945718	1	-0.937130

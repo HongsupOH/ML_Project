@@ -1,0 +1,31 @@
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 0 	 Elapsed time: 0:00:04.211483 	 Best training fitness: 1.210265e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:0, 4.211483e+00, 14235, 1.210265e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:42.072504	 age 30	 fitness 1.146e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 10 	 Elapsed time: 0:00:46.551034 	 Best training fitness: 1.146328e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:10, 4.655103e+01, 126114, 1.146328e-01, 1.146328e-01, 1.204772e-01, 1.205828e-01, 1.205896e-01, 1.205971e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:47.420558	 age 50	 fitness 1.005e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 20 	 Elapsed time: 0:01:34.274728 	 Best training fitness: 1.005432e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:20, 9.427473e+01, 225110, 1.005432e-01, 1.005432e-01, 1.144029e-01, 1.203943e-01, 1.204927e-01, 1.205077e-01, 1.205347e-01, 1.205971e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:30.909913	 age 80	 fitness 9.855e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 30 	 Elapsed time: 0:02:05.530114 	 Best training fitness: 9.854506e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:30, 1.255301e+02, 316750, 9.854506e-02, 9.854506e-02, 1.144029e-01, 1.153036e-01, 1.203160e-01, 1.203859e-01, 1.205021e-01, 1.205594e-01, 1.205971e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:30.521477	 age 110	 fitness 9.806e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 40 	 Elapsed time: 0:02:36.364065 	 Best training fitness: 9.806140e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:40, 1.563641e+02, 399548, 9.806140e-02, 9.806140e-02, 1.144007e-01, 1.153036e-01, 1.203160e-01, 1.203849e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:26.491897	 age 120	 fitness 9.794e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 50 	 Elapsed time: 0:03:03.117086 	 Best training fitness: 9.793506e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:50, 1.831171e+02, 455771, 9.793506e-02, 9.793506e-02, 1.144007e-01, 1.153036e-01, 1.203160e-01, 1.203338e-01, 1.203849e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:17.363454	 age 130	 fitness 8.480e-02
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 60 	 Elapsed time: 0:03:20.737571 	 Best training fitness: 8.480438e-02 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:60, 2.007376e+02, 501200, 8.480438e-02, 8.480438e-02, 1.203338e-01, 1.203849e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:43.894852	 age 160	 fitness 0.000e+00
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 70 	 Elapsed time: 0:04:04.886441 	 Best training fitness: 0.000000e+00 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:70, 2.448864e+02, 569473, 0.000000e+00, 0.000000e+00, 1.203835e-01, 1.203849e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Evolution successfully converged.
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:  Absolte convergence occurred with best fitness < 1e-10
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Hall of Fame:
+0.0	7	sin(log((X_1)(X_1) + (X_0)(X_0)))
+0.12038353532762036	6	sin((log(0.095221))(0.095221)) + sin(log(0.095221))
+0.12038492490579088	1	-0.934764

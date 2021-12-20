@@ -1,0 +1,20 @@
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:#generational_age, elapsed_time, fitness_evaluation_count, current_training_fitness, hall_of_fame_fitnesses
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 0 	 Elapsed time: 0:00:00.711375 	 Best training fitness: 3.061743e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:0, 7.113750e-01, 33280, 3.061743e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:06.998571	 age 40	 fitness 1.485e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 10 	 Elapsed time: 0:00:07.998551 	 Best training fitness: 1.485349e-01 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:10, 7.998551e+00, 401831, 1.485349e-01, 1.485349e-01, 1.538470e-01, 1.548279e-01, 2.291490e-01, 2.658866e-01, 2.970166e-01, 3.061743e-01, 3.441922e-01, 3.441922e-01
+INFO:bingo.evolutionary_optimizers.parallel_archipelago:Evolution time 0:00:06.643785	 age 60	 fitness 8.452e-13
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Generation: 20 	 Elapsed time: 0:00:14.980394 	 Best training fitness: 8.452322e-13 	 
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:20, 1.498039e+01, 698156, 8.452322e-13, 8.452322e-13, 2.609207e-02, 2.427553e-01, 2.764782e-01, 3.061743e-01, 3.441922e-01, 3.441922e-01
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Evolution successfully converged.
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:  Absolte convergence occurred with best fitness < 1e-10
+Level 25:bingo.evolutionary_optimizers.evolutionary_optimizer:Hall of Fame:
+8.452322175500626e-13	14	sin(log(((X_0)(X_0) + -0.000000)(1.000000) + (X_1)(-0.000000 + X_1)))
+0.026092070603829103	10	sin(log((X_0)(X_0) + (X_1)(0.455890 + X_1)))
+0.24275530597196301	7	sin(log((X_0)((X_1)(3.192061))))
+0.2764782123750614	6	(-0.217147)(log((X_0)(X_1)))
+0.3061742718035242	5	sin((log(X_1))(-0.572167))
+0.34419218946292124	2	sin(-1.129571)
+0.34419218946292135	1	-0.904229

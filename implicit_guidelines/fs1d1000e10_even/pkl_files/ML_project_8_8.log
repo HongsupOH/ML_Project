@@ -1,0 +1,1157 @@
+:::TRIAL ML_project_8:::
+BINGO PARAMS:
+  --GENERAL--
+  NUMBER OF CPUS = 1
+  --CONVERGENCE--
+  MAX GENERATIONS = 100000
+  ABSOLUTE FITNESS TOLERANCE = 0.000000
+  STAGNATION GENERATIONS = 500000
+  CONVERGENCE CHECK FREQUENCY = 1000
+  --EQUATIONS--
+  TOTAL EQUATION POPULATION SIZE = 128
+  EQUATION POPULATION PER CPU = 128
+  EQUATION STACK SIZE = 10
+  EQUATION OPERATORS = [+, -, *, /]
+  --FITNESS PREDICTORS--
+  PREDICTOR POPULATION PER CPU = 32
+  PREDICTOR SIZE RATIO = 0.050000
+  PREDICTOR COMP RATIO = 0.100000
+  --EVOLUTIONARY ALGORITHM--
+  ALGORITHM = Age-Fitness
+  MUTATION RATE = 0.010000
+  CROSSOVER RATE = 0.750000
+DATA PARAMS:
+  DATA FILE = /uufs/chpc.utah.edu/common/home/u0871364/ML_project/midterm/circle_even1000_1.hdf5
+  STEPPING THROUGH DATA AT STRIDES OF = 1
+  DATA COLUMNS = [x^1, y^1]
+
+Saving checkpoint: ML_project_8_0.pkl
+Saved successfully
+Generation: 0 	 Elapsed time: 0:00:00.703351 	 Best training fitness: 6.344259e-01 	 
+Hall of Fame:
+
+Performing migration between Islands
+Evolution time 0:01:58.847720	 age 1000	 fitness 3.068e-14
+Saving checkpoint: ML_project_8_1000.pkl
+Saved successfully
+Generation: 1000 	 Elapsed time: 0:01:59.658503 	 Best training fitness: 3.067858e-14 	 
+Hall of Fame:
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6469235996416979	4	(X_1)((X_0)(X_0))
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:48.424795	 age 2000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_2000.pkl
+Saved successfully
+Generation: 2000 	 Elapsed time: 0:03:48.191416 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6469235996416979	4	(X_1)((X_0)(X_0))
+0.7190228414918007	3	X_0 - (X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:31.893634	 age 3000	 fitness 2.723e-14
+Saving checkpoint: ML_project_8_3000.pkl
+Saved successfully
+Generation: 3000 	 Elapsed time: 0:05:20.216517 	 Best training fitness: 2.723489e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6390114176272411	4	(X_1)(X_1) - (X_0)
+0.7190228414918007	3	X_0 - (X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:35.500979	 age 4000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_4000.pkl
+Saved successfully
+Generation: 4000 	 Elapsed time: 0:06:55.826989 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:47.939334	 age 5000	 fitness 3.100e-14
+Saving checkpoint: ML_project_8_5000.pkl
+Saved successfully
+Generation: 5000 	 Elapsed time: 0:08:43.878252 	 Best training fitness: 3.100335e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:28.511095	 age 6000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_6000.pkl
+Saved successfully
+Generation: 6000 	 Elapsed time: 0:11:12.500434 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:44.428227	 age 7000	 fitness 2.388e-14
+Saving checkpoint: ML_project_8_7000.pkl
+Saved successfully
+Generation: 7000 	 Elapsed time: 0:12:57.040499 	 Best training fitness: 2.387683e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:18.910111	 age 8000	 fitness 2.274e-14
+Saving checkpoint: ML_project_8_8000.pkl
+Saved successfully
+Generation: 8000 	 Elapsed time: 0:14:16.059280 	 Best training fitness: 2.274474e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:05.557489	 age 9000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_9000.pkl
+Saved successfully
+Generation: 9000 	 Elapsed time: 0:16:21.729306 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:38.028261	 age 10000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_10000.pkl
+Saved successfully
+Generation: 10000 	 Elapsed time: 0:17:59.867097 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:45.456847	 age 11000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_11000.pkl
+Saved successfully
+Generation: 11000 	 Elapsed time: 0:19:45.434346 	 Best training fitness: 1.873478e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:44.204045	 age 12000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_12000.pkl
+Saved successfully
+Generation: 12000 	 Elapsed time: 0:21:29.762216 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:47.812451	 age 13000	 fitness 3.724e-14
+Saving checkpoint: ML_project_8_13000.pkl
+Saved successfully
+Generation: 13000 	 Elapsed time: 0:23:17.685672 	 Best training fitness: 3.724390e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:16.747006	 age 14000	 fitness 2.611e-14
+Saving checkpoint: ML_project_8_14000.pkl
+Saved successfully
+Generation: 14000 	 Elapsed time: 0:25:34.543456 	 Best training fitness: 2.610563e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:59.511364	 age 15000	 fitness 2.144e-14
+Saving checkpoint: ML_project_8_15000.pkl
+Saved successfully
+Generation: 15000 	 Elapsed time: 0:27:34.166751 	 Best training fitness: 2.144143e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:23.903748	 age 16000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_16000.pkl
+Saved successfully
+Generation: 16000 	 Elapsed time: 0:29:58.179393 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:24.680510	 age 17000	 fitness 1.874e-14
+Saving checkpoint: ML_project_8_17000.pkl
+Saved successfully
+Generation: 17000 	 Elapsed time: 0:31:22.969242 	 Best training fitness: 1.874436e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:29.498511	 age 18000	 fitness 3.171e-14
+Saving checkpoint: ML_project_8_18000.pkl
+Saved successfully
+Generation: 18000 	 Elapsed time: 0:32:52.578185 	 Best training fitness: 3.170821e-14 	 
+Hall of Fame:
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.872715416842017e-14	7	(X_0)(X_0) + (((X_1)(X_1))(X_1))/(X_1)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:59.625438	 age 19000	 fitness 1.871e-14
+Saving checkpoint: ML_project_8_19000.pkl
+Saved successfully
+Generation: 19000 	 Elapsed time: 0:34:52.315206 	 Best training fitness: 1.870984e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.872715416842017e-14	7	(X_0)(X_0) + (((X_1)(X_1))(X_1))/(X_1)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:38.341474	 age 20000	 fitness 4.117e-14
+Saving checkpoint: ML_project_8_20000.pkl
+Saved successfully
+Generation: 20000 	 Elapsed time: 0:37:30.767178 	 Best training fitness: 4.116525e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.872715416842017e-14	7	(X_0)(X_0) + (((X_1)(X_1))(X_1))/(X_1)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:41.889445	 age 21000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_21000.pkl
+Saved successfully
+Generation: 21000 	 Elapsed time: 0:39:12.770013 	 Best training fitness: 1.872546e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:33.379714	 age 22000	 fitness 2.962e-14
+Saving checkpoint: ML_project_8_22000.pkl
+Saved successfully
+Generation: 22000 	 Elapsed time: 0:41:46.262299 	 Best training fitness: 2.962235e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:25.207513	 age 23000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_23000.pkl
+Saved successfully
+Generation: 23000 	 Elapsed time: 0:43:11.582332 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:20.190748	 age 24000	 fitness 1.942e-14
+Saving checkpoint: ML_project_8_24000.pkl
+Saved successfully
+Generation: 24000 	 Elapsed time: 0:44:31.886162 	 Best training fitness: 1.941902e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:01.735854	 age 25000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_25000.pkl
+Saved successfully
+Generation: 25000 	 Elapsed time: 0:46:33.733706 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:57.969828	 age 26000	 fitness 2.404e-14
+Saving checkpoint: ML_project_8_26000.pkl
+Saved successfully
+Generation: 26000 	 Elapsed time: 0:48:31.815481 	 Best training fitness: 2.403876e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:55.494180	 age 27000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_27000.pkl
+Saved successfully
+Generation: 27000 	 Elapsed time: 0:50:27.422960 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:44.686269	 age 28000	 fitness 3.461e-14
+Saving checkpoint: ML_project_8_28000.pkl
+Saved successfully
+Generation: 28000 	 Elapsed time: 0:52:12.219558 	 Best training fitness: 3.461475e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:12.467301	 age 29000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_29000.pkl
+Saved successfully
+Generation: 29000 	 Elapsed time: 0:54:24.919818 	 Best training fitness: 1.872864e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:29.709456	 age 30000	 fitness 1.872e-14
+Saving checkpoint: ML_project_8_30000.pkl
+Saved successfully
+Generation: 30000 	 Elapsed time: 0:55:54.753452 	 Best training fitness: 1.872486e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:25.016858	 age 31000	 fitness 3.709e-14
+Saving checkpoint: ML_project_8_31000.pkl
+Saved successfully
+Generation: 31000 	 Elapsed time: 0:57:19.909881 	 Best training fitness: 3.709042e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:18.746059	 age 32000	 fitness 1.881e-14
+Saving checkpoint: ML_project_8_32000.pkl
+Saved successfully
+Generation: 32000 	 Elapsed time: 0:58:38.781761 	 Best training fitness: 1.880535e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:37.013984	 age 33000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_33000.pkl
+Saved successfully
+Generation: 33000 	 Elapsed time: 1:00:15.907611 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:28.181333	 age 34000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_34000.pkl
+Saved successfully
+Generation: 34000 	 Elapsed time: 1:01:44.232768 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:19.856111	 age 35000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_35000.pkl
+Saved successfully
+Generation: 35000 	 Elapsed time: 1:04:04.201732 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:16.317270	 age 36000	 fitness 3.211e-14
+Saving checkpoint: ML_project_8_36000.pkl
+Saved successfully
+Generation: 36000 	 Elapsed time: 1:05:20.636299 	 Best training fitness: 3.210551e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:43.598436	 age 37000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_37000.pkl
+Saved successfully
+Generation: 37000 	 Elapsed time: 1:07:04.347375 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:55.682128	 age 38000	 fitness 1.881e-14
+Saving checkpoint: ML_project_8_38000.pkl
+Saved successfully
+Generation: 38000 	 Elapsed time: 1:09:00.144275 	 Best training fitness: 1.880535e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8718070117034128e-14	8	(X_1 + (X_0 - (X_0))(X_1))(X_1) + (X_0)(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:39.232296	 age 39000	 fitness 1.871e-14
+Saving checkpoint: ML_project_8_39000.pkl
+Saved successfully
+Generation: 39000 	 Elapsed time: 1:10:39.490013 	 Best training fitness: 1.871080e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:35.681106	 age 40000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_40000.pkl
+Saved successfully
+Generation: 40000 	 Elapsed time: 1:12:15.316253 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:31.901967	 age 41000	 fitness 2.467e-14
+Saving checkpoint: ML_project_8_41000.pkl
+Saved successfully
+Generation: 41000 	 Elapsed time: 1:13:47.329522 	 Best training fitness: 2.467267e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:56.821667	 age 42000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_42000.pkl
+Saved successfully
+Generation: 42000 	 Elapsed time: 1:15:44.266273 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:03:01.547342	 age 43000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_43000.pkl
+Saved successfully
+Generation: 43000 	 Elapsed time: 1:18:45.924253 	 Best training fitness: 1.872631e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:49.722831	 age 44000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_44000.pkl
+Saved successfully
+Generation: 44000 	 Elapsed time: 1:20:35.758521 	 Best training fitness: 1.872620e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:57.848993	 age 45000	 fitness 3.784e-14
+Saving checkpoint: ML_project_8_45000.pkl
+Saved successfully
+Generation: 45000 	 Elapsed time: 1:22:33.718556 	 Best training fitness: 3.784218e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:06.367458	 age 46000	 fitness 1.876e-14
+Saving checkpoint: ML_project_8_46000.pkl
+Saved successfully
+Generation: 46000 	 Elapsed time: 1:24:40.201224 	 Best training fitness: 1.875965e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:38.785430	 age 47000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_47000.pkl
+Saved successfully
+Generation: 47000 	 Elapsed time: 1:26:19.098641 	 Best training fitness: 1.872769e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:54.309780	 age 48000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_48000.pkl
+Saved successfully
+Generation: 48000 	 Elapsed time: 1:28:13.522786 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.8709835455166985e-14	9	((X_0)(X_0) + (X_1)(X_1 + X_0 - (X_0)))/(0.354393)
+1.8710797671861475e-14	8	X_0 - (X_0 + (X_0)(X_0) + (X_1)(X_1))
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:52.637729	 age 49000	 fitness 1.867e-14
+Saving checkpoint: ML_project_8_49000.pkl
+Saved successfully
+Generation: 49000 	 Elapsed time: 1:30:06.283680 	 Best training fitness: 1.866665e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:23.218581	 age 50000	 fitness 2.482e-14
+Saving checkpoint: ML_project_8_50000.pkl
+Saved successfully
+Generation: 50000 	 Elapsed time: 1:31:29.623174 	 Best training fitness: 2.482123e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:49.519869	 age 51000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_51000.pkl
+Saved successfully
+Generation: 51000 	 Elapsed time: 1:33:19.253623 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:36.926700	 age 52000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_52000.pkl
+Saved successfully
+Generation: 52000 	 Elapsed time: 1:34:56.290425 	 Best training fitness: 1.872747e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:52.541707	 age 53000	 fitness 1.874e-14
+Saving checkpoint: ML_project_8_53000.pkl
+Saved successfully
+Generation: 53000 	 Elapsed time: 1:36:48.943746 	 Best training fitness: 1.873603e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:18.368207	 age 54000	 fitness 1.965e-14
+Saving checkpoint: ML_project_8_54000.pkl
+Saved successfully
+Generation: 54000 	 Elapsed time: 1:38:07.421515 	 Best training fitness: 1.965353e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:38.616925	 age 55000	 fitness 2.067e-14
+Saving checkpoint: ML_project_8_55000.pkl
+Saved successfully
+Generation: 55000 	 Elapsed time: 1:39:46.148104 	 Best training fitness: 2.067186e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:55.318909	 age 56000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_56000.pkl
+Saved successfully
+Generation: 56000 	 Elapsed time: 1:41:41.576037 	 Best training fitness: 1.872770e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:01.430692	 age 57000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_57000.pkl
+Saved successfully
+Generation: 57000 	 Elapsed time: 1:43:43.117598 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:57.434165	 age 58000	 fitness 3.023e-14
+Saving checkpoint: ML_project_8_58000.pkl
+Saved successfully
+Generation: 58000 	 Elapsed time: 1:45:40.660986 	 Best training fitness: 3.022935e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:40.222821	 age 59000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_59000.pkl
+Saved successfully
+Generation: 59000 	 Elapsed time: 1:47:20.993777 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:52.361385	 age 60000	 fitness 1.872e-14
+Saving checkpoint: ML_project_8_60000.pkl
+Saved successfully
+Generation: 60000 	 Elapsed time: 1:50:13.465707 	 Best training fitness: 1.872411e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:55.635332	 age 61000	 fitness 3.725e-14
+Saving checkpoint: ML_project_8_61000.pkl
+Saved successfully
+Generation: 61000 	 Elapsed time: 1:53:09.223580 	 Best training fitness: 3.724587e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:16.134655	 age 62000	 fitness 1.874e-14
+Saving checkpoint: ML_project_8_62000.pkl
+Saved successfully
+Generation: 62000 	 Elapsed time: 1:54:27.553262 	 Best training fitness: 1.874387e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:16.145701	 age 63000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_63000.pkl
+Saved successfully
+Generation: 63000 	 Elapsed time: 1:55:43.847384 	 Best training fitness: 1.872794e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:07.499315	 age 64000	 fitness 2.688e-14
+Saving checkpoint: ML_project_8_64000.pkl
+Saved successfully
+Generation: 64000 	 Elapsed time: 1:57:51.458456 	 Best training fitness: 2.687703e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:52.158197	 age 65000	 fitness 1.878e-14
+Saving checkpoint: ML_project_8_65000.pkl
+Saved successfully
+Generation: 65000 	 Elapsed time: 1:59:43.728226 	 Best training fitness: 1.877747e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:40.384301	 age 66000	 fitness 2.455e-14
+Saving checkpoint: ML_project_8_66000.pkl
+Saved successfully
+Generation: 66000 	 Elapsed time: 2:01:24.274570 	 Best training fitness: 2.454507e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:33.412947	 age 67000	 fitness 2.978e-14
+Saving checkpoint: ML_project_8_67000.pkl
+Saved successfully
+Generation: 67000 	 Elapsed time: 2:03:57.798861 	 Best training fitness: 2.977639e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:56.609379	 age 68000	 fitness 2.973e-14
+Saving checkpoint: ML_project_8_68000.pkl
+Saved successfully
+Generation: 68000 	 Elapsed time: 2:05:54.534092 	 Best training fitness: 2.972971e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:18.012967	 age 69000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_69000.pkl
+Saved successfully
+Generation: 69000 	 Elapsed time: 2:07:12.656544 	 Best training fitness: 1.872742e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:27.596567	 age 70000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_70000.pkl
+Saved successfully
+Generation: 70000 	 Elapsed time: 2:09:40.363911 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:41.726524	 age 71000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_71000.pkl
+Saved successfully
+Generation: 71000 	 Elapsed time: 2:11:22.198964 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:27.837118	 age 72000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_72000.pkl
+Saved successfully
+Generation: 72000 	 Elapsed time: 2:12:50.170020 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:20.309573	 age 73000	 fitness 2.101e-14
+Saving checkpoint: ML_project_8_73000.pkl
+Saved successfully
+Generation: 73000 	 Elapsed time: 2:14:10.591429 	 Best training fitness: 2.100600e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:41.093045	 age 74000	 fitness 2.529e-14
+Saving checkpoint: ML_project_8_74000.pkl
+Saved successfully
+Generation: 74000 	 Elapsed time: 2:16:51.793548 	 Best training fitness: 2.529443e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:14.328441	 age 75000	 fitness 1.879e-14
+Saving checkpoint: ML_project_8_75000.pkl
+Saved successfully
+Generation: 75000 	 Elapsed time: 2:19:06.244198 	 Best training fitness: 1.879487e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:31.547433	 age 76000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_76000.pkl
+Saved successfully
+Generation: 76000 	 Elapsed time: 2:20:37.903002 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:18.416411	 age 77000	 fitness 3.709e-14
+Saving checkpoint: ML_project_8_77000.pkl
+Saved successfully
+Generation: 77000 	 Elapsed time: 2:21:56.432729 	 Best training fitness: 3.708929e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:40.734589	 age 78000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_78000.pkl
+Saved successfully
+Generation: 78000 	 Elapsed time: 2:23:37.276387 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:34.066242	 age 79000	 fitness 2.610e-14
+Saving checkpoint: ML_project_8_79000.pkl
+Saved successfully
+Generation: 79000 	 Elapsed time: 2:25:11.451732 	 Best training fitness: 2.610420e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:03.122903	 age 80000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_80000.pkl
+Saved successfully
+Generation: 80000 	 Elapsed time: 2:27:14.683554 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:33.333204	 age 81000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_81000.pkl
+Saved successfully
+Generation: 81000 	 Elapsed time: 2:28:48.126904 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:49.387548	 age 82000	 fitness 2.467e-14
+Saving checkpoint: ML_project_8_82000.pkl
+Saved successfully
+Generation: 82000 	 Elapsed time: 2:30:37.624988 	 Best training fitness: 2.467329e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:18.619433	 age 83000	 fitness 1.872e-14
+Saving checkpoint: ML_project_8_83000.pkl
+Saved successfully
+Generation: 83000 	 Elapsed time: 2:32:56.364258 	 Best training fitness: 1.872486e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:57.428866	 age 84000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_84000.pkl
+Saved successfully
+Generation: 84000 	 Elapsed time: 2:34:53.905489 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:29.343691	 age 85000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_85000.pkl
+Saved successfully
+Generation: 85000 	 Elapsed time: 2:36:23.358974 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:22.970815	 age 86000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_86000.pkl
+Saved successfully
+Generation: 86000 	 Elapsed time: 2:37:46.439087 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:31.696312	 age 87000	 fitness 2.413e-14
+Saving checkpoint: ML_project_8_87000.pkl
+Saved successfully
+Generation: 87000 	 Elapsed time: 2:39:18.256150 	 Best training fitness: 2.412728e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:36.977509	 age 88000	 fitness 2.458e-14
+Saving checkpoint: ML_project_8_88000.pkl
+Saved successfully
+Generation: 88000 	 Elapsed time: 2:40:55.342223 	 Best training fitness: 2.457872e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:58.082728	 age 89000	 fitness 5.324e-14
+Saving checkpoint: ML_project_8_89000.pkl
+Saved successfully
+Generation: 89000 	 Elapsed time: 2:42:53.535127 	 Best training fitness: 5.323651e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:59.129853	 age 90000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_90000.pkl
+Saved successfully
+Generation: 90000 	 Elapsed time: 2:44:52.776039 	 Best training fitness: 1.872581e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:23.034539	 age 91000	 fitness 2.473e-14
+Saving checkpoint: ML_project_8_91000.pkl
+Saved successfully
+Generation: 91000 	 Elapsed time: 2:46:15.920745 	 Best training fitness: 2.472557e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:00.259615	 age 92000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_92000.pkl
+Saved successfully
+Generation: 92000 	 Elapsed time: 2:48:16.292722 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:13.493818	 age 93000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_93000.pkl
+Saved successfully
+Generation: 93000 	 Elapsed time: 2:50:29.896898 	 Best training fitness: 1.872792e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:38.303954	 age 94000	 fitness 3.721e-14
+Saving checkpoint: ML_project_8_94000.pkl
+Saved successfully
+Generation: 94000 	 Elapsed time: 2:52:08.311511 	 Best training fitness: 3.720503e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:50.475193	 age 95000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_95000.pkl
+Saved successfully
+Generation: 95000 	 Elapsed time: 2:53:58.897449 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:51.971097	 age 96000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_96000.pkl
+Saved successfully
+Generation: 96000 	 Elapsed time: 2:55:51.167970 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:02:10.901285	 age 97000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_97000.pkl
+Saved successfully
+Generation: 97000 	 Elapsed time: 2:58:02.195135 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:43.476116	 age 98000	 fitness 1.873e-14
+Saving checkpoint: ML_project_8_98000.pkl
+Saved successfully
+Generation: 98000 	 Elapsed time: 2:59:45.792239 	 Best training fitness: 1.872820e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:17.693040	 age 99000	 fitness 1.958e-14
+Saving checkpoint: ML_project_8_99000.pkl
+Saved successfully
+Generation: 99000 	 Elapsed time: 3:01:03.595998 	 Best training fitness: 1.958352e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Performing migration between Islands
+Evolution time 0:01:21.512102	 age 100000	 fitness 1.944e-14
+Saving checkpoint: ML_project_8_100000.pkl
+Saved successfully
+Generation: 100000 	 Elapsed time: 3:02:25.218361 	 Best training fitness: 1.944069e-14 	 
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+Evolution unsuccessful.
+  The maximum number of generational steps (100000) occurred
+Hall of Fame:
+1.866665332362546e-14	8	X_0 - ((X_1)/(X_1)) + (X_1)(X_1) + (X_0 - ((X_1)/(X_1)))(X_0)
+1.8725457614347745e-14	7	((X_1)(X_1) + (X_0)(X_0))(456.812730)
+1.8728195906570198e-14	5	(X_1)(X_1) + (X_0)(X_0)
+0.6344258990146133	3	(X_0)(X_1)
+1.0	1	X_1
+:::TRIAL RESULT:::
+OptimizeResult(success=False, status=2, message='The maximum number of generational steps (100000) occurred', ngen=100000, fitness=1.9440688015233326e-14, time=10945.219027, ea_diagnostics=EaDiagnosticsSummary(beneficial_crossover_rate=0.020485236282289567, detrimental_crossover_rate=0.48521650412274836, beneficial_mutation_rate=0.0737546699875467, detrimental_mutation_rate=0.6903175591531756, beneficial_crossover_mutation_rate=0.01905615728626977, detrimental_crossover_mutation_rate=0.5882910963545196))
+
+

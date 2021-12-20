@@ -1,0 +1,18 @@
+{
+  "operators": ["+","*","sin","log"],
+  "hyperparams": {
+    "pop_size": 120,
+    "stack_size": 40,
+    "max_generations": 3000000,
+    "fitness_threshold": 1e-10,
+    "stagnation_threshold": 3000000,
+    "differential_weight": 1.0,
+    "check_frequency": 10,
+    "min_generations": 1,
+    "crossover_rate": 0.4,
+    "mutation_rate": 0.6,
+    "evolution_algorithm":"AgeFitness"
+  },
+  "log_file": "src/bingo_bias_variance_decomposition/logs_st_40/test",
+  "checkpoint_file": "src/bingo_bias_variance_decomposition/checkpoints_st_40/test"
+}
